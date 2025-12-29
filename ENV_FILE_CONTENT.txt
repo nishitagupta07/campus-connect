@@ -1,0 +1,4 @@
+JWT_SECRET=campus_diaries_super_secret_key_12345678_change_in_production
+MONGO_URI=mongodb://127.0.0.1:27017/campus_diaries
+PORT=8080
+NODE_ENV=development
